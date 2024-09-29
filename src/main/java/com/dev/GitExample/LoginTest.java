@@ -6,6 +6,7 @@ public class LoginTest {
 		System.out.println("Login File");
 		int i =5;
 		int j =10;
+		String city_name="Chiplun";
 
 	}
 
